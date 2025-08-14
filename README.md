@@ -38,7 +38,7 @@ dotfiles/
 ├── tmux/
 │   └── .tmux.conf # tmux configuration
 └── README.md
-
+```
 ---
 
 ## 🔜 Roadmap
